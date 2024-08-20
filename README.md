@@ -1,15 +1,11 @@
-# Tutorial Title
+# Napari Naive Bayes Data Collection
 
 Naive Bayes Data Collection Tutorial Using Napari to Collect and Format Data
 
-Create a Binder launch button:
-
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/danforthcenter/napari_naive_bayes_tutorial/HEAD)
-
 <a target="_blank" href="https://colab.research.google.com/github/danforthcenter/napari_naive_bayes_tutorial">
   <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/>
 </a>
-
 [![Static Badge](https://img.shields.io/badge/Open%20on%20GitHub-black?logo=github)](https://github.com/danforthcenter/napari_naive_bayes_tutorial)
 
 ## Tutorial tags/keywords
