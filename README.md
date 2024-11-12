@@ -1,5 +1,7 @@
 # Napari Naive Bayes Data Collection
 
+[![test-pr](https://github.com/danforthcenter/napari_naive_bayes_tutorial/actions/workflows/ci-tests.yml/badge.svg)](https://github.com/danforthcenter/napari_naive_bayes_tutorial/actions/workflows/ci-tests.yml)
+
 Naive Bayes Data Collection Tutorial Using Napari to Collect and Format Data
 
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/danforthcenter/napari_naive_bayes_tutorial/HEAD)
