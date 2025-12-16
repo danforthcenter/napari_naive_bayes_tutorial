@@ -13,7 +13,3 @@ Naive Bayes Data Collection Tutorial Using Napari to Collect and Format Data
 ## Tutorial tags/keywords
 
 napari, naive bayes, color, rgb, machine learning, napari
-
-## Citations
-
-Optional.
